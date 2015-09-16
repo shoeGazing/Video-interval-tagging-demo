@@ -1,0 +1,35 @@
+1.overview--where has been tagged
+-when tagged, a virtual notebook to show to indicate the time and notes
+
+2.show the moment tag--hide other tags
+-avoid visual clutters
+
+3.innovation(the interval,how to select it)
+
+4.education keywords(>50%)
+
+5.literature(normal and edu videos),sw available
+--10+
+-- how to select the interval/annotation styles(image/text...)/specific annotation(text,icons...)
+--evaluation(comparison of exising one or efficiency)
+
+    2015/08/24 (Brian.et.al in CSCW2015:Piloting TrACE: Exploring        Spatiotemporal Anchored Collaboration in Asynchronous Learning)
+
+1. panel-notes(questions/summary) and effective labels --time-based
+
+2. show the temporary annotation and fade the other ones(panel) as playback/show or hide the mark on the video frame in every frame/show the marks on the seek bar and label and hide others as playback
+
+--physical mark on the video frame may be useful for math, engineering courses
+--instant or interval mark on the seek bar can be useful for asking more general questions such as SciInq students
+(get the info from page6)
+
+3. video authoring sw, manual selecting the interval and adjust it by one frame/ increase the interval by 5seconds and adjust it by one frame
+
+4. 
+
+5.comparison with CLAS/ DBR(design-based research)
+//
+2015/09/10
+use one iconbar, to overview draging to five
+
+ 
